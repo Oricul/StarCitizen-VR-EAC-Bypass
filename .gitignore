@@ -2,4 +2,6 @@
 *.bak
 *.mod
 *.setting
+*.7z
+*.zip
 UserSettings.xml
