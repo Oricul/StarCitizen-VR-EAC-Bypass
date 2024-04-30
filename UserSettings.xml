@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UserSettings>
+    <!-- Full direct path to the launcher executable. -->
+    <!-- Default: C:\Program Files\Roberts Space Industries\RSI Launcher\RSI Launcher.exe -->
+    <LauncherPath>C:\Program Files\Roberts Space Industries\RSI Launcher\RSI Launcher.exe</LauncherPath>
+    <!-- Path to branch installation parent folder. -->
+    <!-- Default: C:\Program Files\RSI\StarCitizen\ -->
+    <InstallationPath>C:\Program Files\RSI\StarCitizen\</InstallationPath>
+</UserSettings>
