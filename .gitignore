@@ -1,3 +1,4 @@
 ## Ignore the backup and modified files created by script.
 *.bak
 *.mod
+UserSettings.xml
